@@ -1,0 +1,2 @@
+This python code for identifing, wheather given number is prime number or not.
+We define function with using for loop to identify wheather ginen number is prime number or not in form of list. 
